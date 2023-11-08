@@ -122,3 +122,7 @@ Visualizing results using Seaborn.
     - [Build and Operate Machine Learning Solutions with Azure](https://www.coursera.org/account/accomplishments/certificate/HZSTR7843MUZ)
     - [Perform data science with Azure Databricks](https://www.coursera.org/account/accomplishments/certificate/TFWMZX3RABQ6)
     - [Prepare for DP-100: Data Science on Microsoft Azure Exam](https://www.coursera.org/account/accomplishments/certificate/D9KC8EBHGRHE)
+- [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/XMF2KDA625BA)
+    - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/RBZUWPXR4YZF)
+    - [Data Visualization in Excel](https://www.coursera.org/account/accomplishments/certificate/P3WURT6DU4FC)
+    - [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/YX6JAG9LASZH)
