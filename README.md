@@ -12,6 +12,23 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)
+**About**
+This is a project about *COVID-19 Data Analysis using Python*, I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
+**Structure**
+**Task 1:** Introduction
+Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis. 
+**Task 2:** Importing COVID19 dataset 
+Import COVID19 dataset and prepare it for the analysis by dropping columns and aggregating rows.
+**Task 3:** Finding a good Measure 
+Decide on and calculate a good measure for our analysis.
+**Task 4:** Importing World happiness report dataset 
+Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
+**Task 5:** Visualizing the results 
+Visualize our results using Seaborn.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
