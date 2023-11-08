@@ -35,7 +35,6 @@ Visualizing results using Seaborn.
 #
 
 <img align="left" width="250" height="150" src="https://github.com/hamza811998/Portfolio/blob/Master/Images/Traffic%20Signs.png"> **[Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)** <br />
-**Project Overview** <br />
 Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images.
 - Understand the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs).
 - Import Key python libraries, dataset and perform image visualization.
