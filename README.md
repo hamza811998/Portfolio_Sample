@@ -103,7 +103,7 @@ Visualizing results using Seaborn.
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
 
-## Certificates
+## Specialization Certificates
 
 - [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HH84NE5JU5Q4)
     - [Python Basics](https://www.coursera.org/account/accomplishments/certificate/RHM7JGEGTY63)
@@ -140,5 +140,5 @@ Visualizing results using Seaborn.
     - [Marketing Analytics with Meta](https://www.coursera.org/account/accomplishments/certificate/6ZAUTWRUZB77)
     - [Meta Marketing Science Certification Exam](https://www.coursera.org/account/accomplishments/certificate/QRGL8C83799W)
 
-
+## Certificates
 
