@@ -130,5 +130,15 @@ Visualizing results using Seaborn.
     - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/3SBERUTEDDVN)
     - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/R9373WRMLK97)
     - [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/certificate/BTUEFD9SFQ39)
+- [Meta Marketing Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/E3STQVMFEGXH)
+    - [Marketing Analytics Foundation](https://www.coursera.org/account/accomplishments/certificate/2M85TB7552NE)
+    - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/A92CJZP4HUE5)
+    - [Data Analysis with Spreadsheets and SQL](https://www.coursera.org/account/accomplishments/certificate/3FWBRGA5X75N)
+    - [Python Data Analytics](https://www.coursera.org/account/accomplishments/certificate/H2G4D8A5X7VK)
+    - [Statistics for Marketing](https://www.coursera.org/account/accomplishments/certificate/5RASY9S5Q6SP)
+    - [Data Analytics Methods for Marketing](https://www.coursera.org/account/accomplishments/certificate/JRDHS8NS48GB)
+    - [Marketing Analytics with Meta](https://www.coursera.org/account/accomplishments/certificate/6ZAUTWRUZB77)
+    - [Meta Marketing Science Certification Exam](https://www.coursera.org/account/accomplishments/certificate/QRGL8C83799W)
+
 
 
