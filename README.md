@@ -17,7 +17,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)**
+**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)** <br />
 **About** <br />
 I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
 #### **Structure**
@@ -31,6 +31,18 @@ Decide on and calculate a good measure for our analysis.
 Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
 - **Task 5:** *Visualizing the results* <br />
 Visualizing results using Seaborn.
+
+#
+
+**[Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)** <br />
+**Project Overview** <br />
+Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images.
+- Understand the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs).
+- Import Key python libraries, dataset and perform image visualization.
+- Perform image normalization and convert images from color-scaled to gray-scaled.
+- Build a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end.
+- Compile and fit Deep Convolutional Neural Network model to training data.
+- Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 #
 
