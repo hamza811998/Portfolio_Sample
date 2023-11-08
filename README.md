@@ -17,23 +17,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)** <br />
-**About** <br />
-I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
-#### **Structure**
-- **Task 1:** *Introduction* <br />
-Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis. 
-- **Task 2:** *Importing COVID19 dataset* <br />
-Import COVID19 dataset and prepare it for the analysis by dropping columns and aggregating rows.
-- **Task 3:** *Finding a good Measure* <br />
-Decide on and calculate a good measure for our analysis.
-- **Task 4:** *Importing World happiness report dataset* <br />
-Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
-- **Task 5:** *Visualizing the results* <br />
-Visualizing results using Seaborn.
-
-#
-
 <img align="left" width="250" height="150" src="https://github.com/hamza811998/Portfolio/blob/Master/Images/Traffic%20Signs.png"> **[Traffic Sign Classification Using Deep Learning](https://github.com/hamza811998/P-03-Traffic_Sign_Classification_Using_Deep_Learning)** <br />
 Traffic sign classification is an important task for self-driving cars. In this project, the dataset contains 43 different classes of images. Understand the theory and intuition behind Deep Learning and Convolutional Neural Networks (CNNs). Import Key python libraries, dataset and perform image visualization. Perform image normalization and convert images from color-scaled to gray-scaled. Build a Convolutional Neural Network using Keras with Tensorflow 2.0 as a back-end. Compile and fit Deep Convolutional Neural Network model to training data. Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
@@ -88,6 +71,21 @@ In this project I applied various classification models such as Logistic Regress
 <br />
 
 ## Micro Projects
+- [COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn) <br />
+#### About
+I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
+#### Structure
+- **Introduction** <br />
+Understand the purpose of the project, the datasets that will be used, and the question we will answer with our analysis. 
+- **Importing COVID19 dataset** <br />
+Import COVID19 dataset and prepare it for the analysis by dropping columns and aggregating rows.
+- **Finding a good Measure** <br />
+Decide on and calculate a good measure for our analysis.
+- **Importing World happiness report dataset** <br />
+Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
+- **Visualizing the results** <br />
+Visualizing results using Seaborn.
+
 - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
     - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
