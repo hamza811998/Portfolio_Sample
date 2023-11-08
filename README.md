@@ -115,4 +115,8 @@ Visualizing results using Seaborn.
     - [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/certificate/58TZ3FVYGBYL)
     - [Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/certificate/ZN9N9NVXQX2C)
     - [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/account/accomplishments/certificate/D8TMF2YYGX6W)
-
+- [DevOps on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/AGU6M7587C7C)
+    - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/certificate/59UUGFR5K3FH)
+    - [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/certificate/2WTLBZS9VMGK)
+    - [DevOps on AWS: Release and Deploy](https://www.coursera.org/account/accomplishments/certificate/TV5J7AEM7DFV)
+    - [DevOps on AWS: Operate and Monitor](https://www.coursera.org/account/accomplishments/certificate/VGZEHPRTHVFH)
