@@ -109,7 +109,12 @@ Visualizing results using Seaborn.
 
 ## Certificates
 
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+- [Python 3 Programming Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HH84NE5JU5Q4)
+    - [Python Basics](https://www.coursera.org/account/accomplishments/certificate/RHM7JGEGTY63)
+    - [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/certificate/RC88H8CV22ZK)
+    - [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/certificate/58TZ3FVYGBYL)
+    - [Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/certificate/ZN9N9NVXQX2C)
+    - [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/account/accomplishments/certificate/D8TMF2YYGX6W)
 - [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
 - [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
 - [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
