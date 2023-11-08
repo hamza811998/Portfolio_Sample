@@ -126,3 +126,9 @@ Visualizing results using Seaborn.
     - [Excel Fundamentals for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/RBZUWPXR4YZF)
     - [Data Visualization in Excel](https://www.coursera.org/account/accomplishments/certificate/P3WURT6DU4FC)
     - [Excel Power Tools for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/YX6JAG9LASZH)
+- [Machine Learning for Trading](https://www.coursera.org/account/accomplishments/specialization/certificate/3W64MF2ESVX4)
+    - [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/account/accomplishments/certificate/3SBERUTEDDVN)
+    - [Using Machine Learning in Trading and Finance](https://www.coursera.org/account/accomplishments/certificate/R9373WRMLK97)
+    - [Reinforcement Learning for Trading Strategies](https://www.coursera.org/account/accomplishments/certificate/BTUEFD9SFQ39)
+
+
