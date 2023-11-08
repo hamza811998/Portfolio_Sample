@@ -17,7 +17,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)** <br />
+**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)**
 **About** <br />
 I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
 #### **Structure**
@@ -30,7 +30,7 @@ Decide on and calculate a good measure for our analysis.
 - **Task 4:** *Importing World happiness report dataset* <br />
 Import World happiness report dataset, dropping useless columns and Merge it with COVID19 dataset to find correlations among our data.
 - **Task 5:** *Visualizing the results* <br />
-Visualize our results using Seaborn.
+Visualizing results using Seaborn.
 
 #
 
