@@ -17,8 +17,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)**
-- **About** <br />
+**[COVID19 Data Analysis Using Python](https://github.com/hamza811998/P-01-Exploratory_Data_Analysis_with_Seaborn)** <br />
+**About** <br />
 I worked with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Another dataset consist of various life factors, scored by the people living in each country around the globe.
 #### **Structure**
 - **Task 1:** *Introduction* <br />
