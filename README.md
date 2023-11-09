@@ -140,5 +140,5 @@ Visualizing results using Seaborn.
     - [Marketing Analytics with Meta](https://www.coursera.org/account/accomplishments/certificate/6ZAUTWRUZB77)
     - [Meta Marketing Science Certification Exam](https://www.coursera.org/account/accomplishments/certificate/QRGL8C83799W)
 
-## Certificates
+## Other Certificates
 
